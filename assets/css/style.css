@@ -152,10 +152,6 @@ form .form-group {
   top: 0;
 }
 
-/* .add-task-text {
-  visibility: collapse;
-  display: none;
-} */
 
 .edit-btn,
 .delete-btn {
@@ -253,11 +249,6 @@ footer {
 
   .btn {
     border-radius: 10px;
-  }
-
- .add-task-text {
-    visibility: visible;
-    display: inline-block;
   }
 
   .task-list-wrapper {
