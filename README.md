@@ -9,7 +9,7 @@ A task management application.
 * JavaScript
 
 ## Website Screenshot
-![Taskinator Screenshot](https://github.com/mikegshelby/taskinator/raw/master/assets/images/taskinator-screenshot.jpg "Website Screenshot")
+![Taskinator Screenshot](https://github.com/mikegshelby/taskinator/raw/main/assets/images/taskinator-screenshot.jpg "Website Screenshot")
 
 
 ## Website
